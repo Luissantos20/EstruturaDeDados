@@ -1,5 +1,7 @@
 # 📌 Sistema de Cadastro de Notas e Análise dos Alunos
 
+pip install pandas matplotlib
+
 ## 📖 Sobre o Projeto
 Este projeto consiste em um **sistema de cadastro de notas e análise do desempenho dos alunos** com base nas suas avaliações e frequência. O sistema permite:
 - Registrar alunos e suas notas.
